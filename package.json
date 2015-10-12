@@ -8,5 +8,18 @@
   },
   "author": "Marton Hipszki (mhipszki@gmail.com)",
   "repository": "https://github.com/mhipszki/jspm-babel-angular-seed.git",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jspm": "^0.16.12"
+  },
+  "jspm": {
+    "directories": {
+      "baseURL": "app"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  }
 }
