@@ -1,0 +1,12 @@
+{
+  "name": "jspm-babel-angular-seed",
+  "version": "0.1.0",
+  "description": "Seed project using JSPM, Babel, ESLint, AngularJS 1.x, Mocha, Karma, Chai, Protractor, SASS etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Marton Hipszki (mhipszki@gmail.com)",
+  "repository": "https://github.com/mhipszki/jspm-babel-angular-seed.git",
+  "license": "MIT"
+}
